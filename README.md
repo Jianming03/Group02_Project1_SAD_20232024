@@ -1,5 +1,5 @@
-# SECD2613-02 System Analysis & Design 
-SECD2613 System Analysis & Design Group Projects
+# Semester 2 2023/2024 SECD2613-02 System Analysis & Design 
+System Analysis & Design Group Projects
 
 # Group 2 members
 
