@@ -1,7 +1,7 @@
-# Semester 2 2023/2024 
+# Semester 02 2023/2024 
 SECD2613-02 System Analysis & Design Group Project
 
-# Group 2 members
+# Group 02 members
 
 | Name              | Matric Number  | Github Profile                            |
 |-------------------|----------------|-------------------------------------------|
